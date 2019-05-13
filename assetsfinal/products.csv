@@ -1,0 +1,14 @@
+ProductNum,ProductCategory,PercentageWater,Size_FlOz,AvgPrice$,WaterFlOz,ProductLenth_In,ProductWidth_In,ProductHeight_In,ProductVolume_In3,ProductWeight_Lbs,Cost,Carbon,ProductCategoryMore
+0,Laundry,0.1,50.6,20,5.06,4.6,8.75,9.2,370.3,4.7,6,181,laundry detergent pods
+1,Laundry,0.8,40,6,32,3.8,5.8,11,242.44,3.5,6,181,40 oz laundry detergent
+2,Laundry,0.8,100,12,80,5.4,7.4,11.2,447.552,7,6,181,100 oz laundry detergent
+3,Laundry,0.8,150,19,120,10.7,7.9,6.4,540.992,11.1,6,181,150 oz laundry detergent
+4,Dish,0.75,10,1,7.5,7,3,1.7,35.7,0.75,6,181,10 oz dish soap
+5,Dish,0.75,32,3,24,3.5,3.5,10,122.5,2.3,6,181,32 oz dish soap
+6,Dish,0.75,56,7,42,2.8,6.3,11.223,197.97372,4.1,6,181,56 oz dish soap
+7,Surface,0.9,26,4,23.4,4.2,2.6,10.6,115.752,2.3,6,181,26 oz spray cleaner
+8,Surface,0.9,32,4,28.8,10.6,5.4,4.8,274.752,2.4,6,181,32 oz spray cleaner
+9,Hand,0.6,7.5,2,4.5,3.4,1.7,5.8,33.524,0.6,6,181,7.5 oz hand soap
+10,Hand,0.6,12.5,4,7.5,2.7,2.7,6.55,47.7495,1,6,181,12.5 oz hand soap
+11,Body,0.8,16,6,12.8,9.3,6,10.2,569.16,1.2,6,181,60 oz body wash
+12,Body,0.8,24,8,19.2,3.6,2.7,9.2,89.424,1.5,6,181,24 oz body wash
